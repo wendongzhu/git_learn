@@ -61,7 +61,7 @@ Idea集成GitLab
 
 工作机制：
 
-![image-20211109180946698](C:\Users\wendo\AppData\Roaming\Typora\typora-user-images\image-20211109180946698.png)
+![image-20211109180946698](F:\workspace\go\project\src\git_learn\image\image-20211109180946698.png)
 
 **代码托管中心：**
 
@@ -351,11 +351,11 @@ d0c2816 (HEAD -> master) HEAD@{2}: commit: second commit	# 当前指向的版本
 
 ### 4.1	分支的介绍
 
-![image-20211109214709283](C:\Users\wendo\AppData\Roaming\Typora\typora-user-images\image-20211109214709283.png)
+![image-20211109214709283](F:\workspace\go\project\src\git_learn\image\image-20211109214709283.png)
 
 分支底层是指针的引用；
 
-![image-20211109222810091](C:\Users\wendo\AppData\Roaming\Typora\typora-user-images\image-20211109222810091.png)
+![image-20211109222810091](F:\workspace\go\project\src\git_learn\image\image-20211109222810091.png)
 
 ### 4.2	分支优点：
 
