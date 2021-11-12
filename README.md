@@ -11,9 +11,3 @@ git remote add git_learn https://github.com/wendongzhu/git_learn.git
 git push -u git_learn main
 ```
 
-
-
-```shell
-
-```
-
