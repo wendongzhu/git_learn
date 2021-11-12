@@ -14,8 +14,6 @@ git push -u git_learn main
 
 
 ```shell
-wendongzhu@look.com
-Alex_wendong@look.com
-#Alex_wendo@look.com
+
 ```
 
